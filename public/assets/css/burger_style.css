@@ -1,0 +1,14 @@
+* {
+	text-align: center;
+}
+body{
+	background-color: #BC47FF;
+	font-family: "Courier,sans-serif";
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #1BFF3D;
+}
+
+.jumbotron {
+	background-color: #12F1F5;
+}
